@@ -1,0 +1,9 @@
+5
+/wiki/pQ2.html /wiki/pR2.html
+/wiki/pQ2.html /wiki/pS2.html
+/wiki/pR2.html /wiki/pQ2.html
+/wiki/pS2.html /wiki/pQ2.html
+/wiki/pS2.html /wiki/pW2.html
+/wiki/pS2.html /wiki/pV2.html
+/wiki/pV2.html /wiki/pW2.html
+/wiki/pW2.html /wiki/pV2.html

@@ -1,0 +1,5 @@
+4
+/wiki/pF.html /wiki/pH.html
+/wiki/pH.html /wiki/pF.html
+/wiki/pH.html /wiki/pI.html
+/wiki/pH.html /wiki/pJ.html

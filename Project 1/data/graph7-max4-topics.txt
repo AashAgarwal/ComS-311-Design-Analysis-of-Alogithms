@@ -1,0 +1,9 @@
+4
+/wiki/pA2.html /wiki/pB2.html
+/wiki/pA2.html /wiki/pC2.html
+/wiki/pA2.html /wiki/pD2.html
+/wiki/pB2.html /wiki/pA2.html
+/wiki/pB2.html /wiki/pD2.html
+/wiki/pC2.html /wiki/pA2.html
+/wiki/pD2.html /wiki/pA2.html
+/wiki/pD2.html /wiki/pB2.html

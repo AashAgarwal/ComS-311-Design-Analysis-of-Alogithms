@@ -1,0 +1,3 @@
+2
+/wiki/J.html /wiki/K.html
+/wiki/K.html /wiki/J.html

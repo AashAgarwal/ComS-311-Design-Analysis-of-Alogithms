@@ -1,0 +1,7 @@
+3
+/wiki/pWW.html /wiki/pYY.html
+/wiki/pWW.html /wiki/pZZ.html
+/wiki/pYY.html /wiki/pWW.html
+/wiki/pYY.html /wiki/pZZ.html
+/wiki/pZZ.html /wiki/pWW.html
+/wiki/pZZ.html /wiki/pYY.html

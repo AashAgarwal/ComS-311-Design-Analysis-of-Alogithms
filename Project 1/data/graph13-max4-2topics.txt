@@ -1,0 +1,4 @@
+3
+/wiki/L1.html /wiki/M1.html
+/wiki/M1.html /wiki/L1.html
+/wiki/M1.html /wiki/P1.html

@@ -1,0 +1,13 @@
+4
+/wiki/pAA.html /wiki/pBB.html
+/wiki/pAA.html /wiki/pCC.html
+/wiki/pAA.html /wiki/pDD.html
+/wiki/pBB.html /wiki/pAA.html
+/wiki/pBB.html /wiki/pCC.html
+/wiki/pBB.html /wiki/pDD.html
+/wiki/pCC.html /wiki/pAA.html
+/wiki/pCC.html /wiki/pBB.html
+/wiki/pCC.html /wiki/pDD.html
+/wiki/pDD.html /wiki/pAA.html
+/wiki/pDD.html /wiki/pBB.html
+/wiki/pDD.html /wiki/pCC.html

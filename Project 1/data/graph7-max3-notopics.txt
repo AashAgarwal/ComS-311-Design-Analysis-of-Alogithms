@@ -1,0 +1,4 @@
+3
+/wiki/G.html /wiki/H.html
+/wiki/H.html /wiki/I.html
+/wiki/I.html /wiki/H.html

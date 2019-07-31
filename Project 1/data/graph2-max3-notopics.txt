@@ -1,0 +1,4 @@
+3
+/wiki/A2.html /wiki/B2.html
+/wiki/A2.html /wiki/C2.html
+/wiki/B2.html /wiki/C2.html

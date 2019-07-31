@@ -1,0 +1,5 @@
+3
+/wiki/pK2.html /wiki/pM2.html
+/wiki/pK2.html /wiki/pN2.html
+/wiki/pM2.html /wiki/pN2.html
+/wiki/pN2.html /wiki/pK2.html

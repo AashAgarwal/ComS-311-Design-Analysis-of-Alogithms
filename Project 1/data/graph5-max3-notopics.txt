@@ -1,0 +1,4 @@
+3
+/wiki/D1.html /wiki/E1.html
+/wiki/E1.html /wiki/F1.html
+/wiki/F1.html /wiki/D1.html

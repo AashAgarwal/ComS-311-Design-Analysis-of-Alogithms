@@ -1,0 +1,4 @@
+4
+/wiki/pA.html /wiki/pB.html
+/wiki/pA.html /wiki/pC.html
+/wiki/pA.html /wiki/pD.html

@@ -1,0 +1,7 @@
+3
+/wiki/A1.html /wiki/B1.html
+/wiki/A1.html /wiki/C1.html
+/wiki/B1.html /wiki/A1.html
+/wiki/B1.html /wiki/C1.html
+/wiki/C1.html /wiki/A1.html
+/wiki/C1.html /wiki/B1.html

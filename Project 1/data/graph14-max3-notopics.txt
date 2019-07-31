@@ -1,0 +1,7 @@
+3
+/wiki/L2.html /wiki/M2.html
+/wiki/L2.html /wiki/N2.html
+/wiki/M2.html /wiki/L2.html
+/wiki/M2.html /wiki/N2.html
+/wiki/N2.html /wiki/L2.html
+/wiki/N2.html /wiki/M2.html

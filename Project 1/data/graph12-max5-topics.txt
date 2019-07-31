@@ -1,0 +1,11 @@
+5
+/wiki/pQ3.html /wiki/pR3.html
+/wiki/pQ3.html /wiki/pS3.html
+/wiki/pQ3.html /wiki/pW3.html
+/wiki/pR3.html /wiki/pQ3.html
+/wiki/pS3.html /wiki/pQ3.html
+/wiki/pS3.html /wiki/pW3.html
+/wiki/pS3.html /wiki/pV3.html
+/wiki/pV3.html /wiki/pW3.html
+/wiki/pV3.html /wiki/pS3.html
+/wiki/pW3.html /wiki/pS3.html

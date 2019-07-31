@@ -1,0 +1,6 @@
+3
+/wiki/AA.html /wiki/BB.html
+/wiki/BB.html /wiki/AA.html
+/wiki/BB.html /wiki/CB.html
+/wiki/CB.html /wiki/AA.html
+/wiki/CB.html /wiki/BB.html
